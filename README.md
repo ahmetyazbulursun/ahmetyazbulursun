@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Hakan Eroğlu</h1>
 <h3 align="center">A passionate backend developer from Turkiye</h3>
 
-<img src"https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" align="right" width="400" />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aheroglu34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aheroglu34" height="30" width="40" /></a>
